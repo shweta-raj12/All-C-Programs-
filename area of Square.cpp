@@ -1,5 +1,4 @@
 //Program to Calculae Areaa of Circle
-
 #include<iostream>
 using namespace std;
 
@@ -11,4 +10,5 @@ int main()
     ar=s*s;
     cout << "Area of Circle is : "<<ar;
     return 0;
-}
+} 
+// Code by Shweta Raj
