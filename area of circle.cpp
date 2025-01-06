@@ -11,4 +11,5 @@ int main()
     ar=3.14*r*r;
     cout << "Area of Circle is : "<<ar;
     return 0;
-}
+} 
+// Code by Shweta Raj 
